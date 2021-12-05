@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "open": "clasp open",
+    "push": "clasp push"
+  },
   "dependencies": {
     "@google/clasp": "^2.4.1"
   },
