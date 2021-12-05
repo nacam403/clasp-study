@@ -4,6 +4,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
+    "lint": "eslint .",
     "open": "clasp open",
     "push": "clasp push"
   },
